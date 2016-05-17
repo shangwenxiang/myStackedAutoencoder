@@ -1,1 +1,3 @@
 # myStackedAutoencoder
+
+使用python实现ufldl中的stacked_autoencoder,数据集保存在data文件夹中，解压data,文件，运行stacked_autoencoder_exerciese.py文件即可运行
